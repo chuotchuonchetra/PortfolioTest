@@ -40,7 +40,7 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5",
     "tailwindcss": "^4.1.9",
-    "typescript": "^5",
+    "typescript": "^6.0.0-dev.20251209",
     "vite": "^7.2.7"
   }
 }
